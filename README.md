@@ -1,6 +1,10 @@
 ![Banner](https://github.com/xVemu/xVemu/blob/master/banner.png?raw=true)
 
-### Find me:
+Flutter developer and cybersecurity student from Poland with a passion for creating mobile applications.
+My coding journey is fueled by a love for Android and a fascination with how things work.
+Currently, diving deep into Kotlin Multiplatform and always looking for new challenges.
+
+### Find me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-006495?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkras/)
 [![Google Play](https://img.shields.io/badge/Google_Play-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Kamil+Kras)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12021861/vemu)
