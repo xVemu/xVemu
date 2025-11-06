@@ -30,8 +30,8 @@
 ![RouterOS](https://img.shields.io/badge/routeros-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=solarized-light#gh-light-mode-only)
 ![Vemu GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=great-gatsby#gh-dark-mode-only)
 ![ZSME app](https://playbadges.pavi2410.com/badge/full?id=pl.vemu.zsme&theme=dark#gh-dark-mode-only)
 ![Vemu GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light#gh-light-mode-only)
