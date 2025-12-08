@@ -33,11 +33,11 @@ Currently, diving deep into Kotlin Multiplatform and always looking for new chal
 ## Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=great-gatsby&hide_border=true"
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=xvemu&show_icons=true&theme=great-gatsby&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light"
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light" /> <!-- OLD https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light -->
