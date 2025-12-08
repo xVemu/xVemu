@@ -40,7 +40,7 @@ Currently, diving deep into Kotlin Multiplatform and always looking for new chal
     srcset="https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light" /> <!-- OLD https://github-readme-stats.vercel.app/api?username=xvemu&show_icons=true&theme=solarized-light -->
 </picture>
 <a href="https://play.google.com/store/apps/details?id=pl.vemu.zsme">
 <picture>
